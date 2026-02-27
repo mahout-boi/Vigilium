@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\e290ae3d0a9b700839ed357ce979bfe9\ftxui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\0843504b0c5508ad559e838bfc176303\ftxui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\bd56bf96e484167de6d45ceb6f630c2c\ftxui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Pip_Boy\Pip-Boy\build\_deps\ftxui-subbuild\CMakeFiles\ftxui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3DE8016B-DA9B-30C8-908A-644CA1B8DCFB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
