@@ -1,10 +1,34 @@
 // Pip-Boy.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
 
+#include <ftxui/dom/elements.hpp>
+#include <ftxui/screen/screen.hpp>
 #include <iostream>
+using namespace ftxui;
 
-int main()
-{
+
+static int Initialmenu();
+
+int main() {
+    return Initialmenu();
     std::cout << "Iniciando Programa!\n";
+};
+
+static int Initialmenu() {
+
+	Element document = hbox({
+		text("left") | border
+		});
+
+	auto screen = Screen::Create(
+		Dimension::Full(),       // Width
+		Dimension::Fit(document) // Height
+	);
+
+	Render(screen, document);
+
+	screen.Print();
+
+	return 0;
 }
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
