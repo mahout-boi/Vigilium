@@ -1,11 +1,10 @@
 // Pip-Boy.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
-//
 
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Iniciando Programa!\n";
 }
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
