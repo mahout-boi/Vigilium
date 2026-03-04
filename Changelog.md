@@ -21,3 +21,11 @@ O novo padrão de versionamento, junto do **SemVer**, é por categorias. São el
   - Changelog
   - Readme
   - Initial files and Archieves 
+---
+## [1.1.0] - 2026-04-03
+### Added
+- Initial project structure
+- FTXUI integration and configuration
+- Base terminal UI setup
+- README documentation
+- CHANGELOG file
