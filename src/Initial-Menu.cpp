@@ -1,4 +1,6 @@
 //Menu inicial do pip-boy
+//Chama .h
+#include "Initial-Menu.h"
 
 #include <ftxui/dom/elements.hpp>
 #include <ftxui/screen/screen.hpp>
@@ -6,22 +8,19 @@
 
 using namespace ftxui;
 
-static int Initialmenu() {
-
-	Element document = hbox({
-		text("left") | border
-	});
+int InitialMenu() {
 
 	auto screen = Screen::Create(
-		Dimension::Full(),       // Width
-		Dimension::Fit(document) // Height
+		ftxui::Dimension::Full(),   // Use full terminal width
+		ftxui::Dimension::Fixed(10) // Fixed height of 10 rows
 	);
 
-	Render(screen, document);
+	auto& cell = screen.CellAt(3, 3);
+	cell.character = "Testando cores de texto";
+	cell.bold = true;
+	cell.foreground_color = ftxui::Color::Green1;
 
 	screen.Print();
 
 	return 0;
 }
-
-

@@ -17,7 +17,7 @@ FetchContent_MakeAvailable(ftxui)
 add_executable(pipboy
   src/Initial-Menu.cpp
   src/Pip-Boy-Init.cpp
-)
+ "src/Initial-Menu.h")
 
 target_include_directories(pipboy PRIVATE include)
 
