@@ -3,7 +3,7 @@
 By **Arthur** :)
 
 ---
-
+Confira o histórico de alterações em [Changelog](Changelog.md)
 ## Introdução
 
 Recentemente assisti à série **Fallout**, baseada na série de jogos da nossa querida **Bethesda**. Eu já conhecia a série de jogos e, ao assistir à série de **TV**, resolvi dar uma chance para os jogos que joguei e dropei há uns anos atrás. Com isso, uma coisa que me chamou muito a atenção na série são os **Pip-Boys**, equipamentos versáteis e com diversas funcionalidades legais, então eu pensei comigo mesmo: “Por que não desenvolver um sistema baseado no Pip-Boy?”
