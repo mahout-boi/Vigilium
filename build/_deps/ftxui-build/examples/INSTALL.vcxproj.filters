@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Pip_Boy\Pip-Boy\build\CMakeFiles\e1ead7747ae0c98a15fb5caf1603dae2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AD5873C2-5827-3954-B4E7-1EB139FBE335}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/CMakeLists.txt
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui-config.cmake.in
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_benchmark.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_coverage.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_export.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_fuzzer.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_install.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_message.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_modules.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_package.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_set_options.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/ftxui_test.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/cmake/iwyu.cmake
+C:/Pip_Boy/Pip-Boy/build/_deps/ftxui-src/ftxui.pc.in
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CPack.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CPackComponent.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/GNUInstallDirs.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Templates/CPackConfig.cmake.in

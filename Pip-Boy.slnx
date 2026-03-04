@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Pip-Boy.vcxproj" />
+  <Project Path="../../../../../../../../Pip_Boy/Pip-Boy/Pip-Boy.vcxproj" Id="7747c633-3c04-438b-a9f4-c0596062f9f9" />
 </Solution>
