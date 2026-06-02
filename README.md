@@ -6,9 +6,9 @@ By **Arthur** :)
 Confira o histórico de alterações em [Changelog](Changelog.md)
 ## Introdução
 
-Recentemente assisti à série **Fallout**, baseada na série de jogos da nossa querida **Bethesda**. Eu já conhecia a série de jogos e, ao assistir à série de **TV**, resolvi dar uma chance para os jogos que joguei e dropei há uns anos atrás. Com isso, uma coisa que me chamou muito a atenção na série são os **Pip-Boys**, equipamentos versáteis e com diversas funcionalidades legais, então eu pensei comigo mesmo: “Por que não desenvolver um sistema baseado no Pip-Boy?”
+Recentemente assisti à série **Fallout**, baseada na série de jogos da nossa querida **Bethesda**. Eu já conhecia a série de jogos e, ao assistir à série de **TV**, resolvi dar uma chance para os jogos que joguei e dropei há uns anos atrás. Com isso, uma coisa que me chamou muito a atenção na série são os **Pip-Boys**, equipamentos versáteis e com diversas funcionalidades legais, então eu pensei comigo mesmo: “Por que não desenvolver um software baseado no Pip-Boy utilizando uma tecnologia que não conheço?”
 
-Obviamente que não vai ser um OS, tá mais para um software que se baseia na estética do Pip-Boy, tipo um “copia mas não faz igual”. Por hora, ele vai ser majoritariamente feito em C++; após isso, eu pretendo integrar com Linux e tacar num Raspberry Pi e realmente fazer uma espécie de Pip-Boy.
+A ideia é criar um software que se baseia na estética do Pip-Boy pra monitoramento de servidor ou da própria máquina em si. Por hora, ele vai ser majoritariamente feito em C++; após isso, eu pretendo integrar com Linux e tacar num Raspberry Pi e realmente fazer uma espécie de "Pip-Boy" que seja plugavel em qualquer pc e puxe o quanto de cada peça está sendo usada e a sua temperatura.
 
 ---
 
